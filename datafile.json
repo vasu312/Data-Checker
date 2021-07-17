@@ -1,0 +1,13 @@
+{
+
+"name" : ["Vasudevan","Ajay","Abdullah","NaveenAkshi","UdhayaKumar"],
+"age" : 19,
+"city" : "Chennai",
+"collage" : "Dmi Collage of Engineering ",
+"state" : "Tamilnadu",
+"country" : "India",
+"mailid" : ["vasudevan@gmail.com","ajay@gmail.com","abd@gmail.com","naveen@gmail.com","udhaya@gmail.com"],
+"contact" : ["8984629473","9883726437","9823678473","9823498344","98234237233"],
+"department" : "Information Technology"
+
+}
